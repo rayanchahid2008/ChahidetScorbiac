@@ -1,0 +1,32 @@
+body
+{
+color:yellow;
+background-color:olive;
+font-family: 'Edu TAS Beginner', cursive;
+font-family: 'Playpen Sans', cursive;
+}
+h1
+{
+	text-align:center;
+	text-decoration:blink;
+}
+p
+{
+	box-shadow: 5px 5px 5px teal;
+}
+a:active
+{
+	text-decoration:underline;
+	color:purple;
+}
+h1
+{
+	color:yellow;
+	text-decoration:blink;
+	text-align:center;
+}
+strong
+{
+	color:red
+}
+
